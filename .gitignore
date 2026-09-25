@@ -1,0 +1,9 @@
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# large files (each project README links to the source)
+Classification/online_payments_fraud_detection/dataset.csv
+Recommendation Systems/movie_recommendation_system/tmdb_5000_credits.csv
+*.pt
